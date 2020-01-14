@@ -3,6 +3,8 @@ A futuristic game of billiards where you need to change the color of all your op
 
 This is an old unfinished game (2013). I uploaded it here for posterity.
 
+![logo](https://i.imgur.com/aEuwMax.jpg)
+
 ## Details
 Movaball is a 2-player game thats can be described as a futuristic game of billiards. The objective is to change the color of all your opponent’s balls to your color by hitting them with your main ball (or puck), and avoiding hitting the red balls.  The game features real-life physics and customizable play modes.
 
